@@ -1,2 +1,2 @@
-let num = 100
+let num = 1000000
 let statusKod = 200
