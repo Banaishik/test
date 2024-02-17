@@ -1,0 +1,16 @@
+[33m837fe7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfix[m[33m)[m HEAD@{0}: reset: moving to 837fe7ffbf396275e0096f83e1a7f8b498f13737
+[33m9fce008[m[33m ([m[1;31morigin/fix[m[33m)[m HEAD@{1}: commit: change num
+[33m837fe7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfix[m[33m)[m HEAD@{2}: checkout: moving from main to fix
+[33mc14049f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: checkout: moving from fix to main
+[33m837fe7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfix[m[33m)[m HEAD@{4}: checkout: moving from main to fix
+[33mc14049f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{5}: checkout: moving from fix to main
+[33m837fe7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfix[m[33m)[m HEAD@{6}: commit: add statusKod
+[33mc14049f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{7}: checkout: moving from main to fix
+[33mc14049f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{8}: reset: moving to HEAD
+[33mc14049f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from fix to main
+[33mc14049f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{10}: checkout: moving from main to fix
+[33mc14049f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{11}: reset: moving to HEAD
+[33mc14049f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{12}: commit: add fix
+[33ma2ae79d[m HEAD@{13}: commit: add script.js
+[33m9b2f7d8[m HEAD@{14}: commit: add html
+[33m8be7bef[m HEAD@{15}: clone: from https://github.com/Banaishik/test.git
